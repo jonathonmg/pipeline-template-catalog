@@ -1,4 +1,5 @@
 name: Multibranch with marker file
+version: 1
 type: pipeline-template
 templateType: MULTIBRANCH
 parameters:
